@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: CharterBold;
+  src: url("../fonts/Charter\ Bold.ttf");
+}
+@font-face {
+  font-family: Charter;
+  src: url("../fonts/Charter\ Regular.ttf");
+}
+@font-face {
+  font-family: Kiev;
+  src: url("../fonts/KievitOT-Light.ttf");
+}
+@font-face {
+  font-family: GT;
+  src: url("../fonts/GT-Super-Display-Regular-Trial.otf");
+}
